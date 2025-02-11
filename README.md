@@ -1,4 +1,4 @@
-# LLM Development Course Course Repository
+# LLM Development Course Repository
 
 <img src="llm-dev.jpg">
 
